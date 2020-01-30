@@ -12,7 +12,7 @@ $arComponentDescription = array(
 	"PATH" => array(
 		"ID" => "iu",
 		"SORT" => 3000,
-		"NAME" => "Collected",
+		"NAME" => "COLLECTED",
 	),
 );
 ?>
